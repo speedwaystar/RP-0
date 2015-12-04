@@ -1674,7 +1674,7 @@ generalConstruction:
     HeatShield1: # 2m
         entryCost: 33000
         cost: 1500
-    HeatShield3m:
+    Heatshield3m:
         entryCost: 34000
         cost: 2250
     HeatShield2: # 4m
@@ -2256,7 +2256,7 @@ propulsionSystems: #staged combustion TL3 -- NK-15 here.
     NK43: # in Nk-15V configuration
         cost: 780
     # NK15s were flown on the 4 N1 launches, from 1969 to 1972
-
+    
     #Tantares N-1
     LLV_Engine_A: # in 28x NK-15 configuration
         cost: 20100
@@ -4062,10 +4062,8 @@ ORPHANS:
     SXTNERVA:
     SXTNERVAB:
     SXTMk2LinearAerospike:
-    SXTK1BaseLarge:
     SXTK1Base5m:
     SXTmk2SAScore:
-
     Tantares_Habitation_A:
     Tantares_DockingMechanism_A:
     Tantares_DockingMechanism_B:
